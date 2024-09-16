@@ -1,0 +1,9 @@
+[objects]
+src/main.obj
+data.obj
+hdr.obj
+src/superfx_api.obj
+/opt/toolchains/snes/pvsneslib/pvsneslib/lib/LoROM_SlowROM/crt0_snes.obj
+/opt/toolchains/snes/pvsneslib/pvsneslib/lib/LoROM_SlowROM/libc.obj
+/opt/toolchains/snes/pvsneslib/pvsneslib/lib/LoROM_SlowROM/libm.obj
+/opt/toolchains/snes/pvsneslib/pvsneslib/lib/LoROM_SlowROM/libtcc.obj
