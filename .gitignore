@@ -5,3 +5,5 @@
 *.ram
 *.lst
 *.ofx
+*.pal
+*.pic
