@@ -7,3 +7,4 @@ First, install [pvsneslib](https://github.com/alekmaul/pvsneslib), then inside t
 Then just run ``make`` within the root directory, else go into ``/superFX`` and run make there.
 ## Issues
 It doesn't run on bsnes-plus/accurate, nor snes9x, which will be (and is) a issue.
+Only tested to work in and on Mesen 2 and Ares.
