@@ -23,10 +23,13 @@ export ROMNAME := superfx
 
 all: clean compile_sgs bitmaps $(ROMNAME).sfc
 
-clean: cleanBuildRes cleanRom cleanGfx
+clean: cleanBuildRes cleanRom cleanGfx clean_sgs
 
 compile_sgs:
 	cd ./superfx && make clean && make
+
+clean_sgs:
+	cd ./superfx && make clean
 
 
 #---------------------------------------------------------------------------------

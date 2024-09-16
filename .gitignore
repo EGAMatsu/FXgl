@@ -1,0 +1,7 @@
+*.o
+*.sfc
+*.bin
+*.sym
+*.ram
+*.lst
+*.ofx
