@@ -7,3 +7,4 @@
 *.ofx
 *.pal
 *.pic
+/linkfile
